@@ -15,7 +15,7 @@ for Y in range(5):
          print("*", end="")
      print("")
 
-format함수
+#format함수
 
  print("정수값 :{}, string : {} , flaot : {}".format(10,"안녕하세요",10.10))
 
